@@ -5,7 +5,7 @@ Version:    0.0.1: alpha
             0.0.2: beta
 """
 """
-<plugin key="VRRTSLite2" name="AC RTS Blind LITE2" author="Erwanweb" version="0.0.2" externallink="https://github.com/Erwanweb/VRRTSLite.git">
+<plugin key="VRRTSLite2" name="AC RTS Blind LITE2" author="Erwanweb" version="0.0.2" externallink="https://github.com/Erwanweb/VRRTSLite2.git">
     <description>
         <h2>Control of RTS blinds for CASA-IA</h2><br/>
         Easily control RTS blinds with Ziblue RFPlayer<br/>
